@@ -116,7 +116,7 @@ p {
 
 .header .menu a {
   color: #808397;
-  font-weight: semibold;
+  font-weight: 600;
 }
 
 .header .menu li:last-of-type a {
